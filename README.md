@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
-<BR>
+<br>
 Author - Mayank Raj
